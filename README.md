@@ -1,5 +1,7 @@
 # Rancher tools
 
+**Note: Repository archived on Jan 20 2025, archived copy for reference or free to re-use**
+
 **Note: this is not official documentation, make sure you have a backup and test it before applying any of this**
 
 Index of miscellaneous non official gists/tools for Rancher
